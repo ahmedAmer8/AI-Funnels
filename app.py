@@ -9,7 +9,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-BACKEND_URL = "http://localhost:8000"  
 
 def initialize_session_state():
     """Initialize session state variables"""
